@@ -1,7 +1,7 @@
 import { afterEach, describe, expect, it } from 'vitest';
 import { openExternal } from './open-url';
 
-const URL = 'https://github.com/ShiroKuro-hen/simple-reader/releases/tag/v0.8.0';
+const URL = 'https://github.com/EduardoSanandresRojas/simple-reader/releases/tag/v0.8.0';
 type Call = [string, Record<string, unknown> | undefined];
 
 /** A window with just the two things openExternal looks at; `invoke` stands where the native bridge would. */

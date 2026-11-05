@@ -1,6 +1,6 @@
 // Asks GitHub whether a newer build of the desktop/Android app exists. Only the native app calls this; the PWA has its own update flow.
 
-export const DEFAULT_ENDPOINT = 'https://api.github.com/repos/ShiroKuro-hen/simple-reader/releases?per_page=10';
+export const DEFAULT_ENDPOINT = 'https://api.github.com/repos/EduardoSanandresRojas/simple-reader/releases?per_page=10';
 
 export interface Release {
   tag_name: string;
