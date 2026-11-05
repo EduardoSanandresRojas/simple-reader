@@ -13,7 +13,7 @@
 
 [Live demo](https://shirokuro-hen.github.io/simple-reader/) · [Releases](https://github.com/ShiroKuro-hen/simple-reader/releases) · [Report an issue](https://github.com/ShiroKuro-hen/simple-reader/issues)
 
-<img src="docs/screenshot.png" alt="simple-reader showing an EPUB with a word lookup popup" width="800">
+<img src="docs/reader-sepia.png" alt="simple-reader showing an EPUB in the sepia theme with a word lookup popup" width="800">
 
 </div>
 
@@ -25,6 +25,7 @@ It runs in the browser as an installable, offline-capable PWA, and as a Windows 
 
 ## Contents
 
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Platforms](#platforms)
 - [Getting started](#getting-started)
@@ -37,6 +38,14 @@ It runs in the browser as an installable, offline-capable PWA, and as a Windows 
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
+
+## Screenshots
+
+| Library | Dark theme |
+|---|---|
+| <img src="docs/library.png" alt="Library with book covers"> | <img src="docs/library-dark.png" alt="Library in the dark theme"> |
+| **Reader with word lookup (dark)** | **Japanese with furigana** |
+| <img src="docs/reader-dark.png" alt="Reader in the dark theme with a lookup popup"> | <img src="docs/reader-japanese.png" alt="Japanese EPUB with furigana over kanji"> |
 
 ## Features
 
