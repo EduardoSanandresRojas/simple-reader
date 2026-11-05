@@ -193,4 +193,4 @@ Out of scope on purpose: local API, CLI, plugins, TTS, OCR, OPDS, and additional
 
 ## License
 
-[MIT](LICENSE) © 2026 ShiroKuro-hen
+[MIT](LICENSE) © 2026 EduardoSanandresRojas

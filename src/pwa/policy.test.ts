@@ -57,7 +57,7 @@ describe('buildPrecache', () => {
 
 describe('route', () => {
   const precache = new Set(buildPrecache(built).urls);
-  const bases = ['https://shirokuro-hen.github.io/simple-reader/', 'http://localhost:4173/', 'http://127.0.0.1:8080/some/deep/base/'];
+  const bases = ['https://eduardosanandresrojas.github.io/simple-reader/', 'http://localhost:4173/', 'http://127.0.0.1:8080/some/deep/base/'];
 
   describe.each(bases)('served from %s', (scope) => {
     const r = (rel: string, extra: { method?: string; mode?: string } = {}) =>

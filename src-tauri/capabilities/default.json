@@ -11,7 +11,7 @@
       "identifier": "opener:allow-open-url",
       "allow": [
         {
-          "url": "https://github.com/ShiroKuro-hen/simple-reader/**"
+          "url": "https://github.com/EduardoSanandresRojas/simple-reader/**"
         }
       ]
     }
