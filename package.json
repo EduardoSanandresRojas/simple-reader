@@ -17,17 +17,17 @@
   },
   "devDependencies": {
     "@tauri-apps/cli": "^2.12.4",
-    "@types/node": "^26.6.5",
-    "playwright": "^1.64.1",
+    "@types/node": "^26.6.6",
+    "playwright": "^1.65.0",
     "typescript": "^7.0.2",
-    "vite": "^8.3.5",
-    "vitest": "^5.0.5"
+    "vite": "^8.3.7",
+    "vitest": "^5.1.0"
   },
   "dependencies": {
     "aws4fetch": "^1.0.20",
     "kuromoji": "^0.1.2",
     "kuroshiro": "^1.2.1",
     "node-unrar-js": "^2.0.2",
-    "pdfjs-dist": "^6.4.299"
+    "pdfjs-dist": "^6.5.438"
   }
 }
